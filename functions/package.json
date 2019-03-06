@@ -1,0 +1,8 @@
+{
+  "name": "nuevo-sismo-function",
+  "description": "Envia una nueva notificacion a todos los dispositivos cuando hay un nuevo sismo",
+  "dependencies": {
+    "firebase-admin": "^5.8.1",
+    "firebase-functions": "^0.8.1"
+  }
+}
